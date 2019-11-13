@@ -1,5 +1,4 @@
 # Applied-multivariate-statistics
-桂林电子科技大学 
 
 多元统计分析例题习题Python代码 
 
